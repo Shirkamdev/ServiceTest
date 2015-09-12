@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="service_label">Servicio de prueba</string>
+</resources>

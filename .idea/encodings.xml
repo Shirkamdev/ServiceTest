@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/ConnectionFailedException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/CouldNotConvertFormatException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/CouldNotGetInformationException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/Evento.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/EventoBD.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/MyService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/Notificacion.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/NotificacionesBD.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/Notifications.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/Time.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/TooManyDaysException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jsadevtech/vgc/servicetest/TooManyMinutesException.java" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
